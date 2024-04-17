@@ -1,1 +1,1 @@
-{steps.trigger.event.body.releases.update[0].ref}
+"prismicRef": "{steps.trigger.event.body.releases.update[0].ref}"
