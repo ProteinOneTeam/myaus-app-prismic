@@ -1,5 +1,5 @@
-- name: Update data.json
-  uses: restackio/update-json-file-action@v2.1
-  with:
-    file: data.json
-    fields: "{'prismicRef': 'value'}"
+name: Update data.json
+uses: restackio/update-json-file-action@v2.1
+with:
+  file: data.json
+  fields: "{'prismicRef': 'value'}"
